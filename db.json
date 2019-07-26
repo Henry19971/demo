@@ -1,5 +1,7 @@
 {
+    "Einkaufszettel":[
     { "id": 1, "title": "json-server", "body": "typicode" },
     { "id": 2, "title": "rein", "body": "so" },
     { "id": 3, "title": "test", "body": "okay" }
+    ]
 }
